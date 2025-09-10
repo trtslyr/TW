@@ -1,6 +1,6 @@
 project:
-  type: website
-  output-dir: _site
+  type: book
+  output-dir: docs
 
 website:
   title: "[Your Name]'s Portfolio"
